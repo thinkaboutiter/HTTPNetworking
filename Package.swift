@@ -15,7 +15,6 @@ let package = Package(
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
         .package(url: "https://github.com/Alamofire/Alamofire.git", from: "4.6.0"),
-        .package(url: "https://github.com/Hearst-DD/ObjectMapper.git", from: "3.1.0"),
-        .package(url: "https://github.com/OAuthSwift/OAuthSwift.git", from: "1.2.0")
+        .package(url: "https://github.com/Hearst-DD/ObjectMapper.git", from: "3.1.0")
     ]
 )

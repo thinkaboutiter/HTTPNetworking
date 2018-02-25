@@ -21,5 +21,4 @@ Pod::Spec.new do |s|
   # dependencies
   s.dependency "Alamofire", "~> 4.6"
   s.dependency "ObjectMapper", "~> 3.1"
-  s.dependency "OAuthSwift", "~> 1.2"
 end
